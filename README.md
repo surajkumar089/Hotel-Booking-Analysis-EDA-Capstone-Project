@@ -62,7 +62,7 @@ https://github.com/surajkumar089/EDA_Capstone_Project_Hotel_Booking_Analysis/blo
 
 Github Link: [Project Repository](https://github.com/surajkumar089/EDA_Capstone_Project_Hotel_Booking_Analysis)
 
-PROJECT PART 1 - [Data Cleaning and Feature Engineering](https://github.com/martamalecka/hotel-bookings-analysis/blob/main/Hotel%20Bookings%20Analysis%20-%20Part%201%20-%20Data%20Cleaning%2C%20Feature%20Engineering.ipynb)
+PROJECT PART 1 - [Data Cleaning and Feature Engineering](https://github.com/surajkumar089/EDA_Capstone_Project_Hotel_Booking_Analysis/blob/main/Hotel_Booking_Analysis_Capstone_Project.ipynb)
 
 PROJECT PART 2 - [EDA and Data Visualization](https://github.com/surajkumar089/EDA_Capstone_Project_Hotel_Booking_Analysis/blob/main/Hotel_Booking_Analysis_Capstone_Project.ipynb)
 
@@ -143,9 +143,9 @@ The objective of this project is to answer the following 3 questions for each ho
 
 If you wish any information on the project feel free to contact me on LinkedIn or by email:
 
-Linkedin: linkedin.com/in/suraj-kumar-372048203
+Linkedin: (https://www.linkedin.com/in/suraj-kumar-372048203/)
 
-Email: surajkumar0892@gmail.com
+Email: (surajkumar0892@gmail.com)
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
