@@ -60,15 +60,13 @@ https://www.kaggle.com/jessemostipak/hotel-booking-demand
 
 ## Project components
 
-Github Link: [Project Repository](https://github.com/martamalecka/hotel-bookings-analysis)
+Github Link: [Project Repository](https://github.com/surajkumar089/EDA_Capstone_Project_Hotel_Booking_Analysis)
 
 PROJECT PART 1 - [Data Cleaning and Feature Engineering](https://github.com/martamalecka/hotel-bookings-analysis/blob/main/Hotel%20Bookings%20Analysis%20-%20Part%201%20-%20Data%20Cleaning%2C%20Feature%20Engineering.ipynb)
 
-PROJECT PART 2 - [EDA and Data Visualization](https://github.com/martamalecka/hotel-bookings-analysis/blob/main/Hotel%20Bookings%20Analysis%20-%20Part%202%20-%20EDA%20and%20Data%20Visualisation.ipynb)
+PROJECT PART 2 - [EDA and Data Visualization](https://github.com/surajkumar089/EDA_Capstone_Project_Hotel_Booking_Analysis/blob/main/Hotel_Booking_Analysis_Capstone_Project.ipynb)
 
-[PPT presentation discussing the results](https://github.com/martamalecka/hotel-bookings-analysis/blob/main/hotel%20bookings%20analysis.pdf)
-
-[YouTube presentation during the Bootcamp´s Demo Day - see from min. 26:00 to min. 39:00](https://youtu.be/_a42n1FRhUY?t=1637)
+[PPT presentation discussing the results](https://github.com/surajkumar089/EDA_Capstone_Project_Hotel_Booking_Analysis/blob/main/Hotel_Booking_Analysis.pdf)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -145,9 +143,9 @@ The objective of this project is to answer the following 3 questions for each ho
 
 If you wish any information on the project feel free to contact me on LinkedIn or by email:
 
-Linkedin:
+Linkedin: linkedin.com/in/suraj-kumar-372048203
 
-Email:
+Email: surajkumar0892@gmail.com
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
