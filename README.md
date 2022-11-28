@@ -3,7 +3,7 @@
 <h3 align="center">Hotel Bookings Analysis</h3>
 
   <p align="center">
-    Data Analytics Bootcamp final project that explores the use of Python in analysing hospitality data
+    Data Analytics project that explores the use of Python in analysing hospitality data
     <br />
 
   </p>
@@ -30,7 +30,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-The project was the final stage of the Data Analytics bootcamp I finished in December 2021. It explores a vast dataset found on Kaggle which compares various booking information between two hotels: a city hotel and a resort hotel. It includes information such as when the booking was made, length of stay, the number of adults, children, and/or babies, and the number of available parking spaces, among other things - a total of 32 variables, however, during the first part of the data exploration some variables were deemed redundant and eliminated, and a number of new calculated and categorical variables were created.
+This data set contains booking information a city hotel and a resort hotel. It includes information such as when the booking was made, length of stay, the number of adults, children, and/or babies, and the number of available parking spaces, among other things - a total of 32 variables, however, during the first part of the data exploration some variables were deemed redundant and eliminated, and a number of new calculated and categorical variables were created.
 
 The basic motivation for choosing this dataset was to explore the use of Python for data analysis in the hospitality industry, in which I currently work.
 
@@ -40,7 +40,7 @@ The basic motivation for choosing this dataset was to explore the use of Python 
 
 ## Built With
 
-* [Python]
+* Python:-
   * Pandas
   * NumPy
   * Plotly
@@ -52,7 +52,7 @@ The basic motivation for choosing this dataset was to explore the use of Python 
 
 The dataset used in this project can be found on Kaggle under the following link:
 
-https://www.kaggle.com/jessemostipak/hotel-booking-demand
+https://github.com/surajkumar089/EDA_Capstone_Project_Hotel_Booking_Analysis/blob/main/Hotel%20Bookings.csv
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
