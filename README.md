@@ -82,11 +82,13 @@ PROJECT PART 2 - [EDA and Data Visualization](https://github.com/surajkumar089/E
 
 ## Objective
 
-The objective of this project is to answer the following 3 questions for each hotel of the dataset:
+The objective of this project is to answer the following 5 questions for each hotel of the dataset:
 
-* What is the seasonality for each hotel and what are the top performing months?
-* What are the top countries in terms of bookings and/or revenue?
-* What´s the most frequent guest type for each hotel?
+* What is the month with the most guest arrivals?
+* What is the year with the most guest arrivals? 
+* How does the price vary per night over the year?
+* Which countries do customers come from?
+* What is the strongest market segment and distribution channel?
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
